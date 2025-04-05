@@ -1,10 +1,10 @@
-#AnimeVerse<br>
-Discover Your Next Favorite Anime
+<h2>AnimeVerse</h2><br>
+<p>Discover Your Next Favorite Anime</p>
 
-<h5>Project Description:</h5>
+<h2>Project Description:</h2>
 <p>AnimeVerse is a responsive, interactive web app that lets users search and explore anime shows using the Kitsu API. Featuring a sleek UI inspired by modern anime aesthetics, it displays anime details like posters, genres, episode count, ratings, and trailers. Users can toggle full synopsis views and seamlessly browse their favorite titles in a visually engaging way.</p>
 
-<h3>Features:</h5>
+<h2>Features:</h2>
 <ol>
 <li>Search any anime by name</li>
 <li>Fetches data from the Kitsu API</li>
@@ -14,10 +14,10 @@ Discover Your Next Favorite Anime
 <li>Accessible and user-friendly layout</li>
 </ol>
 
-<h3>Screenshot of the Webpage</h2>
-<img style="width:500px;height:300px" src="">
+<h2>Screenshot of the Webpage</h2>
+<img style="width:500px;height:300px" src="https://github.com/jhansiboini/Animeverse/blob/main/Screenshot.png">
 
-<h3>Installation</h2>
+<h2>Installation</h2>
 <ol type="1">
   <li>Clone the repository:<br>
     git clone https://github.com/your-username/Animeverse.git cd Animeverse</li>
