@@ -1,7 +1,7 @@
 <h2>AnimeVerse</h2>
 <p>Discover Your Next Favorite Anime</p>
 
-<h2>Project Description:</h2>
+<h2>Project Description</h2>
 <p>AnimeVerse is a responsive, interactive web app that lets users search and explore anime shows using the Kitsu API. Featuring a sleek UI inspired by modern anime aesthetics, it displays anime details like posters, genres, episode count, ratings, and trailers. Users can toggle full synopsis views and seamlessly browse their favorite titles in a visually engaging way.</p>
 
 <h2>Technologies Used</h2>
@@ -12,7 +12,7 @@
   <li>Bootstrap</li>
 </ol>
 
-<h2>Features:</h2>
+<h2>Features</h2>
 <ol>
 <li>Search any anime by name</li>
 <li>Fetches data from the Kitsu API</li>
